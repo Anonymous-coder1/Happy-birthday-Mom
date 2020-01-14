@@ -1,0 +1,67 @@
+body {
+  background-image: url("ha.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+  background-size: cover;
+}
+}
+.top-bar {
+	background-color: lightblue;
+	margin-top: 10px;
+}					
+.bday-img{
+	height: 150px;
+	border-radius: 12%;
+	position: absolute;
+	right: 6%;
+}
+.heading{
+	color: #fff;
+	font-family: 'Mrs Saint Delafield', cursive;
+	font-size: 120px;
+	position: absolute;
+	right: 5%;
+	margin-top: 160px;
+}
+.woppa{
+	font-family: 'Pacifico', cursive;
+	color: #fff;
+	font-size: 60px;
+	position: absolute;
+	right: 5%;
+	top: 47%;
+}
+.ncs{
+	position: absolute;
+	top: 65%;
+}
+.two{
+	position: absolute;
+	top: 85%;
+	font-size: 80px;
+	margin-bottom: 90px;
+}
+.three{
+	position: absolute;
+	top: 95%;
+	font-size: 70px;
+	padding-top: 90px;
+}
+.wishes{
+	color: white;
+	font-size: 32px;
+	font-family: 'Pacifico', cursive;
+	padding-top: 280px;
+	position: absolute;
+	top: 100%;
+	right: 5%;
+}
+.first{
+	padding-top: 550px;
+}
+.second{
+	padding-top: 630px;
+	padding-bottom: 50px;
+}

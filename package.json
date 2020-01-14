@@ -1,0 +1,11 @@
+{
+  "name": "happybir",
+  "version": "1.0.0",
+  "description": "Happy birthay mom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parikshit",
+  "license": "ISC"
+}
